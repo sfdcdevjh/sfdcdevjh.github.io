@@ -6,9 +6,9 @@
       "name": "directm",
       "title": "DirectM",
       "styling": {
-        "primaryColor": "#5aac98",
-        "secondaryColor": "#A25DAE",
-        "successColor": "#1E7C3A",
+        "primaryColor": "#616161",
+        "secondaryColor": "#424242",
+        "successColor": "#616161",
         "infoColor": "#74a3c7",
         "warningColor": "#FFD785",
         "dangerColor": "#FF9685",
@@ -18,7 +18,10 @@
         "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
-      }
+      },
+      "additionalSetColors": [
+        "#878683"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
@@ -51,7 +54,7 @@
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#fffffd",
+            "bgColor": "#878683",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
@@ -60,10 +63,10 @@
             "overlayColor": "#fffffd",
             "overlayOpacity": 0.95
           },
-          "title": "Send your suggestions",
+          "title": "<b>WebToLead</b>",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get started</a>",
-          "header": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, veniam?",
+          "header": "Web To Lead Tester",
           "form": {
             "action": "nickfsanchez@gmail.com",
             "alerts": {
